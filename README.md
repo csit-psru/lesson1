@@ -6,7 +6,7 @@
 
 เปลี่ยนไดเรคเทอรี
 
-  cd hello
+  cd lesson1
 
 ลองรันสคริปต์
 
@@ -16,6 +16,6 @@
 
   gcloud preview app deploy ./app.yaml
 
-ลบไดเรคเทอรี hello
+ลบไดเรคเทอรี lesson1
 
   rm -r -f lesson1
